@@ -1,0 +1,29 @@
+{
+  "name": "ajs_mocking",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/DanBrwn12/ajs_mocking#readme",
+  "bugs": {
+    "url": "https://github.com/DanBrwn12/ajs_mocking/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanBrwn12/ajs_mocking.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.29.7",
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7",
+    "jest": "^30.4.2"
+  },
+  "dependencies": {
+    "core-js": "^3.49.0"
+  }
+}
